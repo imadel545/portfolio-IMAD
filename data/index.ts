@@ -8,7 +8,8 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "I prioritize client collaboration, fostering open communication ",
+    title:
+      "I prioritize close collaboration with my clients, focusing on transparent and seamless communication. ",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -29,7 +30,7 @@ export const gridItems = [
   {
     id: 3,
     title: "My tech stack",
-    description: "I constantly try to improve",
+    description: "I constantly strive to improve",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
@@ -72,15 +73,15 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "Advanced 3D Solar System",
+    des: "Experience an advanced website offering an immersive 3D simulation of the solar system. Explore the planets in detail with realistic animations powered by Three.js.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "/ui.earth.com",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
+    title: "Video Conferencing App",
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
@@ -88,7 +89,7 @@ export const projects = [
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
+    title: "AI Image SaaS - Application",
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
@@ -107,31 +108,31 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with imadeddine was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. imadeddine's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, imadeddine is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with imadeddine was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. imadeddine's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, imadeddine is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with imadeddine was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. imadeddine's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, imadeddine is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with imadeddine was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. imadeddine's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, imadeddine is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with imadeddine was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. imadeddine's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, imadeddine is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
@@ -173,8 +174,8 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Network Engineer Intern (VLAN Setup & Management)",
+    desc: "I contributed to the management, configuration, and analysis of VLANs within the internal network infrastructure of a province.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
@@ -187,15 +188,15 @@ export const workExperience = [
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Professional Web Development",
+    desc: "Designed and developed custom websites for various companies to enhance their online presence and optimize user experience.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Full-Stack Web Developer",
+    desc: "Designed and implemented dynamic web applications with cutting-edge technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
@@ -205,13 +206,12 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/imadel545", // Lien GitHub
   },
-  {
-    id: 2,
-    img: "/twit.svg",
-  },
+
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/imadeddine-el-jeddaoui-074146187/", // Lien LinkedIn
   },
 ];

@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/FTH6Dn3AyIQ" target="_blank">
-      <img src="https://github.com/adrianhajdin/portfolio/assets/151519281/c6ca3c03-6cb7-4f67-a9b9-a73da5bfa0d8" alt="Project Banner">
+      <img src="https://github.com/imadeddineEl jeddaoui/portfolio/assets/151519281/c6ca3c03-6cb7-4f67-a9b9-a73da5bfa0d8" alt="Project Banner">
     </a>
   <br />
 
@@ -31,7 +31,7 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
+This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
@@ -58,7 +58,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Bento Grid**: Modern layout presenting personal information using cutting-edge CSS design techniques.
 
-👉 **3D Elements**:  Interactive 3D design elements, such as a GitHub-style globe and card hover effects, adding depth and engagement.
+👉 **3D Elements**: Interactive 3D design elements, such as a GitHub-style globe and card hover effects, adding depth and engagement.
 
 👉 **Testimonials**: Dynamic testimonials area with scrolling or animated content for enhanced engagement.
 
@@ -68,7 +68,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Responsiveness**: Seamless adaptability across all devices, ensuring optimal viewing experience for every user.
 
-and many more, including code architecture and reusability 
+and many more, including code architecture and reusability
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -85,7 +85,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/portfolio.git
+git clone https://github.com/imadeddineEl jeddaoui/portfolio.git
 cd portfolio
 ```
 
@@ -121,7 +121,8 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "I prioritize client collaboration, fostering open communication ",
+    title:
+      "I prioritize close collaboration with my clients, focusing on transparent and seamless communication. ",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -142,7 +143,7 @@ export const gridItems = [
   {
     id: 3,
     title: "My tech stack",
-    description: "I constantly try to improve",
+    description: "I constantly strive to improve",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
@@ -189,7 +190,7 @@ export const projects = [
     des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/adrianhajdin?tab=repositories",
+    link: "https://github.com/imadeddineEl jeddaoui?tab=repositories",
   },
   {
     id: 2,
@@ -197,7 +198,7 @@ export const projects = [
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/zoom-clone",
+    link: "https://github.com/imadeddineEl jeddaoui/zoom-clone",
   },
   {
     id: 3,
@@ -205,7 +206,7 @@ export const projects = [
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/ai_saas_app",
+    link: "https://github.com/imadeddineEl jeddaoui/ai_saas_app",
   },
   {
     id: 4,
@@ -213,38 +214,38 @@ export const projects = [
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/adrianhajdin/iphone",
+    link: "https://github.com/imadeddineEl jeddaoui/iphone",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with imadeddine was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. imadeddine's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, imadeddine is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with imadeddine was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. imadeddine's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, imadeddine is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with imadeddine was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. imadeddine's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, imadeddine is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with imadeddine was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. imadeddine's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, imadeddine is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with imadeddine was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. imadeddine's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, imadeddine is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
@@ -641,7 +642,6 @@ export default config;
 
 </details>
 
-
 <details>
 <summary><code>Linear Gradient</code></summary>
 
@@ -654,14 +654,15 @@ style={{
           "linear-gradient(90deg, rgba(4,7,29,1) 0%, rgba(12,14,35,1) 100%)",
       }}
 ```
-</details>
 
+</details>
 
 ## <a name="links">🔗 Assets</a>
 
 Assets used in the project can be found [here](https://drive.google.com/file/d/1ZmtiMilUYTp1wkiXWMFX6AUk-msE981-/view?usp=sharing)
 
 ## <a name="more">🚀 More</a>
+
 **Advance your skills with Next.js Pro Course**
 
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
